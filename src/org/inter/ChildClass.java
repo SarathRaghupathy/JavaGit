@@ -22,6 +22,12 @@ System.out.println("14l");
 		System.out.println("India");	
 	}
 
+	private void emdId() {
+		System.out.println("check git hub");
+
+	
+}
+
 	public static void main(String[] args) {
 		ChildClass c = new ChildClass();
 		c.empAdd();
